@@ -1,3 +1,5 @@
-# Matplotlib Challenge
+# Matplotlib Challenge Summary
 
-In the challenge I tasked with generating all of the tables and figures needed for the technical report of the clinical study and generate a top-level summary of the study results.
+- All drug studies completed with one or fewer outlier outcomes. 
+- Capomulini and Ramicane participants concluded the study with the lowest mean tumor volumes at 36.667568 and 36.191390 (mm3) respectively.  
+- Further review of the Capomulini study found a positive correlation between tumor volume and weight.
